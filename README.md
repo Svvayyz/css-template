@@ -1,1 +1,1 @@
-Just a simple template for visual studio / download the installer in [https://github.com/Svvayyz/css-template/releases](releases tab)
+Just a simple template for visual studio / download the installer in [releases tab](https://github.com/Svvayyz/css-template/releases)
