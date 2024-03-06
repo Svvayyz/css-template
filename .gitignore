@@ -18,6 +18,9 @@ x64/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+*.vsidx
+*.bin
+*.v2
 *_i.c
 *_p.c
 *_i.h
